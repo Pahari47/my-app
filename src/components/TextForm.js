@@ -38,6 +38,7 @@ export default function TextForm(props) {
     document.body.style.backgroundColor = 'red';
   }
 
+
   const [text, setText] = useState("");
 
   return (
